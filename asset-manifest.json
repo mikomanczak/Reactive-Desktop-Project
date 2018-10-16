@@ -1,7 +1,7 @@
 {
   "main.css": "/Reactive-Desktop-Project/static/css/main.4c12191f.chunk.css",
-  "main.js": "/Reactive-Desktop-Project/static/js/main.3519078c.chunk.js",
-  "main.js.map": "/Reactive-Desktop-Project/static/js/main.3519078c.chunk.js.map",
+  "main.js": "/Reactive-Desktop-Project/static/js/main.3085a1f9.chunk.js",
+  "main.js.map": "/Reactive-Desktop-Project/static/js/main.3085a1f9.chunk.js.map",
   "static/js/1.6105a37c.chunk.js": "/Reactive-Desktop-Project/static/js/1.6105a37c.chunk.js",
   "static/js/1.6105a37c.chunk.js.map": "/Reactive-Desktop-Project/static/js/1.6105a37c.chunk.js.map",
   "runtime~main.js": "/Reactive-Desktop-Project/static/js/runtime~main.40609201.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/Reactive-Desktop-Project/static/media/logo.5d5d9eef.svg",
   "static/css/main.4c12191f.chunk.css.map": "/Reactive-Desktop-Project/static/css/main.4c12191f.chunk.css.map",
   "index.html": "/Reactive-Desktop-Project/index.html",
-  "precache-manifest.af45ee198a87889cd28686358ec47c14.js": "/Reactive-Desktop-Project/precache-manifest.af45ee198a87889cd28686358ec47c14.js",
+  "precache-manifest.c654b568082d53866555aed590ec7ace.js": "/Reactive-Desktop-Project/precache-manifest.c654b568082d53866555aed590ec7ace.js",
   "service-worker.js": "/Reactive-Desktop-Project/service-worker.js"
 }
