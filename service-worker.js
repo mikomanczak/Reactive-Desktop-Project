@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/Reactive-Desktop-Project/precache-manifest.c654b568082d53866555aed590ec7ace.js"
+  "/Reactive-Desktop-Project/precache-manifest.e6bfbd1e2c91025f12b01eab01e5c79a.js"
 );
 
 workbox.clientsClaim();

@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/Reactive-Desktop-Project/static/js/runtime~main.40609201.js"
   },
   {
-    "revision": "3085a1f995fc1e317f6e",
-    "url": "/Reactive-Desktop-Project/static/js/main.3085a1f9.chunk.js"
+    "revision": "bba141760d89224291ce",
+    "url": "/Reactive-Desktop-Project/static/js/main.bba14176.chunk.js"
   },
   {
     "revision": "6105a37ce77693a684b2",
     "url": "/Reactive-Desktop-Project/static/js/1.6105a37c.chunk.js"
   },
   {
-    "revision": "3085a1f995fc1e317f6e",
+    "revision": "bba141760d89224291ce",
     "url": "/Reactive-Desktop-Project/static/css/main.4c12191f.chunk.css"
   },
   {
-    "revision": "730ad885eec97b52f44d0b1208071aa8",
+    "revision": "977f00615d828bc7b17d5ec1e5537524",
     "url": "/Reactive-Desktop-Project/index.html"
   }
 ];
